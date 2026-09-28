@@ -1,7 +1,7 @@
 # Validation
 
 - All three projects: Java 21 compilation, resource expansion, separate mod/source JARs.
-- SandFilter: NeoForge mod loading with Create 6.0.10 and Legendary Survival Overhaul 2.4.5; purified fluid survives serialization and its marker can be removed.
+- SandFilter: three tests in NeoForge with Create 6.0.10 and Legendary Survival Overhaul 2.4.5. Purified fluid survives serialization; filling the last 250 mB produces a purified bottle; ordinary water remains an ordinary potion. The filling checks execute Create's actual mixin-transformed method.
 - Mekvamp: both integration items registered with Mekanism/Vampirism loaded; partial blood quantities are preserved, drainage is bounded by the deficit, and unrelated fluids are ignored.
 - Legendary Icefire: compilation and resource checks. Ice and Fire CE gameplay and loaded recipe resolution are not yet validated here.
 

@@ -25,7 +25,7 @@ On Windows use `gradlew.bat`. Each mod writes its own JARs under `mods/<project>
 
 ## What is checked
 
-All three mods compile and package on the pinned NeoForge **21.1.236** toolchain. SandFilter has a real mod-runtime test for fluid purity persistence. Mekvamp has runtime registration and fluid-consumption regression tests. Legendary Icefire is compile/resource checked; its Ice and Fire CE gameplay remains a manual validation step. See [validation](docs/validation.md).
+All three mods compile and package on the pinned NeoForge **21.1.236** toolchain. SandFilter has real mod-runtime tests for fluid purity persistence and bottle filling. Mekvamp has runtime registration and fluid-consumption regression tests. Legendary Icefire is compile/resource checked; its Ice and Fire CE gameplay remains a manual validation step. See [validation](docs/validation.md).
 
 Larger related work lives in [Matter Megadrive](https://github.com/Tigertycoon/matter-megadrive) and [Better Mob Combat](https://github.com/Tigertycoon/better-mob-combat). Original integrations are in [minecraft-integrations](https://github.com/Tigertycoon/minecraft-integrations).
 

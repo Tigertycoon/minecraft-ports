@@ -16,4 +16,6 @@ Reference source: `bd9bd72e26bbf799de8888408c7a154fecc9532e`. Original authorshi
 
 The sand filter model and texture originate from [Thirst Was Taken](https://modrinth.com/mod/thirst-was-taken), as credited by the original SandFilter author.
 
+Thirst Was Taken's publisher lists MIT on Modrinth. Its source repository also retains a Forge/LGPL template notice; that [upstream notice](LICENSES/Thirst-Mod-LICENSE.txt) is preserved verbatim rather than relabeled as MIT. See [asset provenance](LICENSES/README.md).
+
 This source tree supplies no crafting recipe for the filter block. It is available in the creative tab; a survival modpack must provide its intended acquisition recipe.

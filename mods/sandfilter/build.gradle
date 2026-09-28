@@ -45,6 +45,7 @@ tasks.withType(Jar).configureEach {
     preserveFileTimestamps = false
     reproducibleFileOrder = true
     from('LICENSE')
+    from('LICENSES') { into 'LICENSES' }
 }
 
 neoForge { unitTest { enable(); testedMod = mods.sandfilter } }
