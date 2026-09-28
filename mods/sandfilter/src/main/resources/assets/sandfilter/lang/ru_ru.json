@@ -1,0 +1,10 @@
+{
+  "thirst.purity.dirty": "Грязная",
+  "thirst.purity.purified": "Чистая",
+  "block.sandfilter.sand_filter": "Песочный фильтр",
+
+  "sandfilter.ponder.sand_filter.header": "Очищайте воду с помощью песочного фильтра",
+  "sandfilter.ponder.sand_filter.text_1": "Песочный фильтр за один этап очищает прокачиваемую через него воду",
+  "sandfilter.ponder.sand_filter.text_2": "Грязную воду нужно закачивать сверху...",
+  "sandfilter.ponder.sand_filter.text_3": "и очищенную воду, соответственно, снизу."
+}

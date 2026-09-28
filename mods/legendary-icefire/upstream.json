@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/TheMuluk/Legendary-Icefire-Integration-1.20.1-Forge",
+  "commit": "2ce455db3de9743bb79b8fda259927ccdda34118",
+  "port_target": "Minecraft 1.21.1 / NeoForge 21.1.236",
+  "license": "GPL-3.0"
+}

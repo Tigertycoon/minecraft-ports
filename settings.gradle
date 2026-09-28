@@ -1,0 +1,15 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        mavenCentral()
+        maven { url = 'https://maven.neoforged.net/releases' }
+    }
+}
+
+rootProject.name = 'minecraft-ports'
+include 'sandfilter'
+project(':sandfilter').projectDir = file('mods/sandfilter')
+include 'mekvamp'
+project(':mekvamp').projectDir = file('mods/mekvamp')
+include 'legendary-icefire'
+project(':legendary-icefire').projectDir = file('mods/legendary-icefire')

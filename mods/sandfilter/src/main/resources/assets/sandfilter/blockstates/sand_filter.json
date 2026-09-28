@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sandfilter:block/sand_filter"
+    }
+  }
+}

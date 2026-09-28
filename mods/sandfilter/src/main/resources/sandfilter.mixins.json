@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.deechael.sandfilter.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "create.FillingBySpoutMixin",
+    "create.FluidDrainingBehaviourMixin",
+    "create.GenericItemEmptyingMixin",
+    "create.GenericItemFillingMixin",
+    "create.IHaveGoggleInformationMixin",
+    "create.OpenEndedPipeMixin"
+  ],
+  "client": [
+    "jade.FluidViewMixin"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

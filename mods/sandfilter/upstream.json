@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/DeeChael/SandFilter",
+  "commit": "bd9bd72e26bbf799de8888408c7a154fecc9532e",
+  "port_target": "Minecraft 1.21.1 / NeoForge 21.1.236",
+  "license": "MIT"
+}

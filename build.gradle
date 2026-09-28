@@ -1,0 +1,4 @@
+plugins { id 'base' }
+tasks.named('assemble') { dependsOn ':sandfilter:assemble', ':mekvamp:assemble', ':legendary-icefire:assemble' }
+tasks.named('check') { dependsOn ':sandfilter:check', ':mekvamp:check', ':legendary-icefire:check' }
+tasks.named('clean') { dependsOn ':sandfilter:clean', ':mekvamp:clean', ':legendary-icefire:clean' }

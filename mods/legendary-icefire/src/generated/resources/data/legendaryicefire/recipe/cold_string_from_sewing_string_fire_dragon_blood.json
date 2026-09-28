@@ -1,0 +1,13 @@
+{
+  "type": "legendarysurvivaloverhaul:sewing",
+  "addition": {
+    "item": "iceandfire:ice_dragon_blood"
+  },
+  "base": {
+    "item": "minecraft:string"
+  },
+  "result": {
+    "count": 1,
+    "id": "legendarysurvivaloverhaul:cold_string"
+  }
+}
